@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IstanbulAkademi_SignalR_Project", "IstanbulAkademi_SignalR_Project\IstanbulAkademi_SignalR_Project.csproj", "{73B2C9F1-8B76-4034-A37F-BA3CFC262F73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{FAB47599-906B-4239-8DBD-43C433B8A611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B2C9F1-8B76-4034-A37F-BA3CFC262F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B2C9F1-8B76-4034-A37F-BA3CFC262F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B2C9F1-8B76-4034-A37F-BA3CFC262F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B2C9F1-8B76-4034-A37F-BA3CFC262F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB47599-906B-4239-8DBD-43C433B8A611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB47599-906B-4239-8DBD-43C433B8A611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB47599-906B-4239-8DBD-43C433B8A611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB47599-906B-4239-8DBD-43C433B8A611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2600AFD0-CAEB-4299-A068-C24A6710D61F}
+	EndGlobalSection
+EndGlobal
